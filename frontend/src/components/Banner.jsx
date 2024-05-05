@@ -31,7 +31,7 @@ function Banner() {
           <button className="btn btn-secondary mt-5">Secondary</button>
         </div>
         <div className="w-full md:w-1/2 order-1">
-          <img src={banner} className="h-92" alt="" />
+          <img src={banner} className="h-92 w-92" alt="" />
         </div>
       </div>
     </>
